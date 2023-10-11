@@ -1,0 +1,6 @@
+/Users/ryansearls/Actualize/Markdown-plan/obj/Debug/net6.0/Markdown-plan.csproj.AssemblyReference.cache
+/Users/ryansearls/Actualize/Markdown-plan/obj/Debug/net6.0/Markdown-plan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryansearls/Actualize/Markdown-plan/obj/Debug/net6.0/Markdown-plan.AssemblyInfoInputs.cache
+/Users/ryansearls/Actualize/Markdown-plan/obj/Debug/net6.0/Markdown-plan.AssemblyInfo.cs
+/Users/ryansearls/Actualize/Markdown-plan/obj/Debug/net6.0/Markdown-plan.csproj.CoreCompileInputs.cache
+/Users/ryansearls/Actualize/Markdown-plan/obj/Debug/net6.0/Markdown-plan.MvcApplicationPartsAssemblyInfo.cache
